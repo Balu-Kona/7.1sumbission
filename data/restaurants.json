@@ -1,0 +1,23 @@
+[
+    {
+        "destination": "Hershey",
+        "name": "Hershey Indian Kitchen",
+        "cuisine": "Indian",
+        "price_level": "$$",
+        "family_friendly": true
+    },
+    {
+        "destination": "Hershey",
+        "name": "Spice of India",
+        "cuisine": "Indian",
+        "price_level": "$$",
+        "family_friendly": true
+    },
+    {
+        "destination": "Hershey",
+        "name": "Hershey Family Grill",
+        "cuisine": "American",
+        "price_level": "$",
+        "family_friendly": true
+    }
+]

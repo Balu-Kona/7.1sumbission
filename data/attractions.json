@@ -1,0 +1,74 @@
+[
+    {
+        "destination": "Orlando",
+        "name": "Walt Disney World",
+        "type": "theme park",
+        "price_per_person": 150,
+        "family_friendly": true,
+        "driving_time_minutes": 30
+    },
+    {
+        "destination": "Orlando",
+        "name": "Universal Orlando Resort",
+        "type": "theme park",
+        "price_per_person": 140,
+        "family_friendly": true,
+        "driving_time_minutes": 25
+    },
+    {
+        "destination": "Orlando",
+        "name": "Kennedy Space Center",
+        "type": "educational",
+        "price_per_person": 75,
+        "family_friendly": true,
+        "driving_time_minutes": 60
+    },
+    {
+        "destination": "Orlando",
+        "name": "Orlando Science Center",
+        "type": "museum",
+        "price_per_person": 35,
+        "family_friendly": true,
+        "driving_time_minutes": 20
+    },
+    {
+        "destination": "Orlando",
+        "name": "Lake Eola Park",
+        "type": "outdoor",
+        "price_per_person": 0,
+        "family_friendly": true,
+        "driving_time_minutes": 15
+    },
+    {
+        "destination": "Hershey",
+        "name": "Hersheypark",
+        "type": "theme park",
+        "price_per_person": 75,
+        "family_friendly": true,
+        "driving_time_minutes": 10
+    },
+    {
+        "destination": "Hershey",
+        "name": "ZooAmerica",
+        "type": "zoo",
+        "price_per_person": 25,
+        "family_friendly": true,
+        "driving_time_minutes": 10
+    },
+    {
+        "destination": "Hershey",
+        "name": "Hershey's Chocolate World",
+        "type": "family activity",
+        "price_per_person": 20,
+        "family_friendly": true,
+        "driving_time_minutes": 10
+    },
+    {
+        "destination": "Hershey",
+        "name": "Hershey Gardens",
+        "type": "outdoor",
+        "price_per_person": 20,
+        "family_friendly": true,
+        "driving_time_minutes": 10
+    }
+]

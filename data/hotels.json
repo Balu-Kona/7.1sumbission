@@ -1,0 +1,50 @@
+[
+    {
+        "destination": "Orlando",
+        "name": "Family Budget Hotel",
+        "nightly_rate": 160,
+        "rating": 3,
+        "clean": true,
+        "family_friendly": true
+    },
+    {
+        "destination": "Orlando",
+        "name": "Orlando Family Resort",
+        "nightly_rate": 220,
+        "rating": 4,
+        "clean": true,
+        "family_friendly": true
+    },
+    {
+        "destination": "Orlando",
+        "name": "Premium Orlando Resort",
+        "nightly_rate": 300,
+        "rating": 5,
+        "clean": true,
+        "family_friendly": true
+    },
+    {
+        "destination": "Hershey",
+        "name": "Hershey Budget Motel",
+        "nightly_rate": 110,
+        "rating": 3,
+        "clean": true,
+        "family_friendly": true
+    },
+    {
+        "destination": "Hershey",
+        "name": "Hershey Family Hotel",
+        "nightly_rate": 145,
+        "rating": 3,
+        "clean": true,
+        "family_friendly": true
+    },
+    {
+        "destination": "Hershey",
+        "name": "Hershey Premium Resort",
+        "nightly_rate": 220,
+        "rating": 4,
+        "clean": true,
+        "family_friendly": true
+    }
+]

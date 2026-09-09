@@ -1,0 +1,17 @@
+[
+    {
+        "type": "Rental Car",
+        "daily_cost": 55,
+        "description": "Flexible option for families"
+    },
+    {
+        "type": "Ride Share",
+        "daily_cost": 80,
+        "description": "Good for short trips"
+    },
+    {
+        "type": "Hotel Shuttle",
+        "daily_cost": 0,
+        "description": "Available at selected hotels"
+    }
+]

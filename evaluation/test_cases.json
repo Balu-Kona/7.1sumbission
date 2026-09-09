@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Hershey preference-aware trip",
+        "request": {
+            "destination": "Hershys, Pennsylvania",
+            "dates": "June 10 - June 14",
+            "travelers": "4",
+            "budget": 2000,
+            "interests": ["theme parks and zoo"],
+            "preferences": ["kids friendly and indian food"]
+        },
+        "expected_destination": "Hershey",
+        "expected_hotel": "Hershey Budget Motel",
+        "expected_restaurant": "Hershey Indian Kitchen",
+        "expected_attractions": ["Hersheypark", "ZooAmerica"],
+        "max_estimated_total": 2000
+    },
+    {
+        "name": "Orlando destination filtering",
+        "request": {
+            "destination": "Orlando, Florida",
+            "dates": "July 1 - July 5",
+            "travelers": "2",
+            "budget": 2000,
+            "interests": ["theme parks"],
+            "preferences": ["family friendly"]
+        },
+        "expected_destination": "Orlando",
+        "expected_hotel": "Family Budget Hotel",
+        "expected_attractions": ["Walt Disney World"],
+        "max_estimated_total": 2000
+    }
+]
